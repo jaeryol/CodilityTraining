@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryGap.cs" />
+    <Compile Include="CyclicRotation.cs" />
+    <Compile Include="PermMissingElem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
